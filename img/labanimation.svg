@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" style="white-space: pre;">
+<style>
+@keyframes bubble_7_t { 0% { transform: translate(11.556216px,31.899068px); } 24% { transform: translate(11.556216px,31.899068px); } 100% { transform: translate(11.556216px,23.032401px); } }
+@keyframes bubble_7_o { 0% { opacity: 0; } 20% { opacity: 0; } 24% { opacity: 1; } 96% { opacity: 1; } 100% { opacity: 0; } }
+@keyframes bubble_6_t { 0% { transform: translate(13.785216px,30.559745px); } 8% { transform: translate(13.785216px,30.559745px); } 56% { transform: translate(13.785216px,21.693078px); } 100% { transform: translate(13.785216px,21.693078px); } }
+@keyframes bubble_6_o { 0% { opacity: 0; } 4% { opacity: 0; } 8% { opacity: 1; } 52% { opacity: 1; } 56% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes bubble_5_t { 0% { transform: translate(18.992716px,31.936861px); } 28% { transform: translate(18.992716px,31.936861px); } 88% { transform: translate(18.992716px,22.970195px); } 100% { transform: translate(18.992716px,22.970195px); } }
+@keyframes bubble_5_o { 0% { opacity: 0; } 24% { opacity: 0; } 28% { opacity: 1; } 84% { opacity: 1; } 88% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes bubble_4_t { 0% { transform: translate(16.347311px,31.653617px); } 20% { transform: translate(16.347311px,31.653617px); } 80% { transform: translate(16.347311px,22.78695px); } 100% { transform: translate(16.347311px,22.78695px); } }
+@keyframes bubble_4_o { 0% { opacity: 0; } 16% { opacity: 0; } 20% { opacity: 1; } 76% { opacity: 1; } 80% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes bubble_3_t { 0% { transform: translate(9.253649px,23.012549px); } 12% { transform: translate(9.253649px,23.012549px); } 92% { transform: translate(9.253649px,14.312549px); } 100% { transform: translate(9.253649px,14.312549px); } }
+@keyframes bubble_3_o { 0% { opacity: 0; } 8% { opacity: 0; } 12% { opacity: 1; } 84% { opacity: 1; } 92% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes bubble_2_t { 0% { transform: translate(21.352216px,29.710875px); } 20% { transform: translate(21.352216px,29.710875px); } 92% { transform: translate(21.352216px,20.844208px); } 100% { transform: translate(21.352216px,20.844208px); } }
+@keyframes bubble_2_o { 0% { opacity: 0; } 16% { opacity: 0; } 20% { opacity: 1; } 88% { opacity: 1; } 92% { opacity: 0; } 100% { opacity: 0; } }
+</style>
+<rect id="pink_liquid" width="16.2074" height="8.87549" stroke="#de25e0" fill="#de25e0" stroke-width="0.1" transform="translate(16,19.5032) translate(-8.10371,-4.43775)"/>
+<g id="bubble_7" opacity="0" transform="translate(12.3481,23.92) translate(-0.791884,7.97909)" style="animation: bubble_7_t 2.5s linear infinite both, bubble_7_o 2.5s linear infinite both;">
+<ellipse id="bubble_7" rx="0.79188" ry="0.79188" stroke="#e9b8ea" fill="#e9b8ea" stroke-width="0.1" opacity="1" transform="translate(-0.450206,-9.22118) translate(1.24209,1.24209)"/>
+</g>
+<g id="bubble_6" opacity="0" transform="translate(14.5771,23.8336) translate(-0.791884,6.7261)" style="animation: bubble_6_t 2.5s linear infinite both, bubble_6_o 2.5s linear infinite both;">
+<ellipse id="bubble_6" rx="0.79188" ry="0.79188" stroke="#e9b8ea" fill="#e9b8ea" stroke-width="0.1" opacity="1" transform="translate(-0.450206,-7.96819) translate(1.24209,1.24209)"/>
+</g>
+<g id="bubble_5" opacity="0" transform="translate(19.7846,23.9055) translate(-0.791884,8.03135)" style="animation: bubble_5_t 2.5s linear infinite both, bubble_5_o 2.5s linear infinite both;">
+<ellipse id="bubble_5" rx="0.79188" ry="0.79188" stroke="#e9b8ea" fill="#e9b8ea" stroke-width="0.1" opacity="1" transform="translate(-0.450206,-9.27344) translate(1.24209,1.24209)"/>
+</g>
+<g id="bubble_4" opacity="0" transform="translate(17.1392,23.8353) translate(-0.791884,7.81831)" style="animation: bubble_4_t 2.5s linear infinite both, bubble_4_o 2.5s linear infinite both;">
+<ellipse id="bubble_4" rx="0.79188" ry="0.79188" stroke="#e9b8ea" fill="#e9b8ea" stroke-width="0.1" opacity="1" transform="translate(-0.450206,-9.0604) translate(1.24209,1.24209)"/>
+</g>
+<g id="bubble_3" opacity="0" transform="translate(10.0455,23.8044) translate(-0.791884,-0.791884)" style="animation: bubble_3_t 2.5s linear infinite both, bubble_3_o 2.5s linear infinite both;">
+<ellipse id="bubble_3" rx="0.79188" ry="0.79188" stroke="#e9b8ea" fill="#e9b8ea" stroke-width="0.1" opacity="1" transform="translate(-0.450206,-0.450206) translate(1.24209,1.24209)"/>
+</g>
+<g id="bubble_2" opacity="0" transform="translate(22.1441,23.8069) translate(-0.791884,5.90393)" style="animation: bubble_2_t 2.5s linear infinite both, bubble_2_o 2.5s linear infinite both;">
+<ellipse id="bubble_2" rx="0.79188" ry="0.79188" stroke="#e9b8ea" fill="#e9b8ea" stroke-width="0.1" opacity="1" transform="translate(-0.450206,-7.14602) translate(1.24209,1.24209)"/>
+</g>
+<g id="lab_tube" transform="translate(16,13.5862) translate(-9.00412,-11.0944)">
+<rect width="9.00412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(9.00412,0.369812) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(9.00412,1.10944) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(9.00412,1.84906) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(17.1078,1.10944) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(17.1078,1.84906) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(16.2074,1.84906) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(15.307,1.84906) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(9.00412,2.58868) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(17.1078,2.58868) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(9.00412,3.32831) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(17.1078,3.32831) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(9.00412,4.06793) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(17.1078,4.06793) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(16.2074,4.06793) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(15.307,4.06793) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(9.00412,4.80756) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(17.1078,4.80756) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(9.00412,5.54718) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(9.00412,6.28681) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(17.1078,5.54718) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(17.1078,6.28681) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(16.2074,6.28681) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(15.307,6.28681) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(9.00412,7.02643) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(17.1078,7.02643) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(9.00412,7.76605) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(17.1078,7.76605) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(9.00412,8.50568) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(17.1078,8.50568) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(16.2074,8.50568) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(15.307,8.50568) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(9.00412,9.2453) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(8.10371,9.98493) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(7.2033,10.7246) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(18.9087,10.7246) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(6.30288,11.4642) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(19.8091,11.4642) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(18.9087,11.4642) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(18.0082,11.4642) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(17.558,11.4642) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(17.1078,11.4642) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(16.6576,11.4642) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(15.7572,11.4642) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(5.40247,12.2038) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(20.7095,12.2038) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(4.50206,12.9434) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(4.50206,13.683) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(4.50206,14.4227) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(4.50206,15.1623) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(4.50206,15.9019) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(4.50206,16.6415) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(4.50206,17.3812) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(4.50206,18.1208) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(4.50206,18.8604) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(4.50206,19.6) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(4.50206,20.3397) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(4.50206,21.0793) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(21.6099,12.9434) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(21.6099,13.683) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(20.7095,13.683) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(19.8091,13.683) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(18.9087,13.683) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(18.0082,13.683) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(17.1078,13.683) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(20.7095,17.0114) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(19.8091,17.0114) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(18.9087,17.0114) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(18.0082,17.0114) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(20.7095,19.6) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(19.8091,19.6) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(21.6099,14.4227) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(21.6099,15.1623) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(21.6099,15.9019) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(21.6099,16.6415) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(21.6099,17.3812) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(21.6099,18.1208) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(21.6099,18.8604) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(21.6099,19.6) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(21.6099,20.3397) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(21.6099,21.0793) translate(-4.50206,-0.369812)"/>
+<rect width="1.80082" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(5.40247,21.8189) translate(-5.40247,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(6.30288,21.8189) translate(-4.50206,-0.369812)"/>
+<rect width="15.307" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(7.2033,21.8189) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(17.1078,9.2453) translate(-4.50206,-0.369812)"/>
+<rect width="0.900412" height="0.739624" stroke="#000000" fill="#000000" stroke-width="0.1" transform="translate(18.0082,9.98493) translate(-4.50206,-0.369812)"/>
+</g>
+</svg>

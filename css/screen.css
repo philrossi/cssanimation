@@ -1,0 +1,166 @@
+/*normalize*/
+html {
+  font: 100%/1.15 sans-serif;
+}
+body {
+  max-width: 60em;
+  margin: 0 auto;
+}
+figure {
+  display: block;
+  margin: 0;
+}
+header,
+figcaption {
+  display: block;
+}
+
+/*general*/
+img {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+
+/*max width*/
+.max-width {
+  position: relative;
+  max-width: 60em;
+  padding: 0 1em;
+  margin: 0 auto;
+}
+
+/*section*/
+section {
+  display: block;
+  padding-top: 3%;
+}
+
+/*gallery*/
+.gallery {
+  list-style: none;
+  padding-left: 0;
+  margin: 0 0 1em;
+}
+.gallery li {
+  margin-top: 1em;
+  padding-top: 1em;
+}
+
+/*header*/
+header {
+    border-bottom: 1px solid #666;
+    margin: 0 1em;
+}
+#heading h1 {
+  font: normal normal 1.5em/1.25 "Courier New", monospace;
+  text-transform: capitalize;
+  text-align: center;
+  padding-top: 1.5em;
+  margin-bottom: 0;
+}
+#heading p {
+  font: normal normal .9em/1.375 "Courier New", monospace;
+  text-align: center;
+  padding-top: .5em;
+  padding-bottom: 2em;
+}
+
+/*css animations*/
+figure {
+  border-bottom: 1px solid #ccc;
+}
+figcaption {
+  font: normal normal .9em/1.375 "Courier New", monospace;
+  text-align: center;
+  padding-top: 1.5em;
+  padding-bottom: 1em;
+}
+/*paragraph*/
+p {
+  font: normal normal 1em/1.375 "Courier New", monospace;
+  margin: 0 1em;
+  padding-top: 2.25em;
+}
+
+/*footer*/
+footer {
+  font: normal normal .6em/1.2 "Courier New", monospace;
+  text-align: right;
+  padding-top: 1em;  padding-bottom: 1em;
+  margin: 0 1em;
+}
+
+/*media queries*/
+@supports (display: grid) {
+  .gallery {
+    position: static;
+    left: 0;
+    display: grid;
+    grid-gap: 1em;
+    width: auto;
+    margin: 1em 0;
+    align-content: space-around;
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .gallery li {
+    display: block;
+    width: auto;
+    margin: 0;
+  }
+}
+
+
+@media (min-width: 29em) {
+  .gallery {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  header {
+    margin: 0 3em;
+  }
+  #heading h1 {
+    font-size: 2.25em;
+  }
+  #heading p {
+    font-size: 1em;
+    line-height: 1.375em;
+    padding-top: 1em;
+    margin: 0 1em;
+  }
+  figcaption {
+    font-size: 1em;
+  }
+  p {
+    padding-top: 2.5em;
+    margin: 0 3em;
+  }
+  footer {
+    margin-right: 1em;
+  }
+
+}
+
+@media (min-width: 50em) {
+  .gallery {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  header {
+    margin: 0 4em;
+  }
+  #heading p {
+    font-size: 1em;
+    padding-top: 1em;
+  }
+  figcaption {
+    font-size: 1em;
+  }
+  p {
+    padding-top: 2.5em;
+    margin: 0 12em;
+  }
+  footer {
+    margin-right: 1.1em;
+  }
+
+}

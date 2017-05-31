@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 32 32" style="white-space: pre;">
+<style>
+@keyframes webpage_t { 0% { transform: translate(16px,16px) scale(1,1) translate(-4.84px,-9.74px); } 25% { transform: translate(16px,16px) scale(1,1) translate(-4.84px,-9.74px); } 50% { transform: translate(16px,16px) scale(3,1.1) translate(-4.84px,-9.74px); } 75% { transform: translate(16px,16px) scale(3,1.1) translate(-4.84px,-9.74px); } 100% { transform: translate(16px,16px) scale(1,1) translate(-4.84px,-9.74px); } }
+@keyframes heading_t { 0% { transform: translate(16px,9.1975px) scale(1,1) translate(-3px,-1.0625px); } 25% { transform: translate(16px,9.1975px) scale(1,1) translate(-3px,-1.0625px); } 50% { transform: translate(16px,9.1975px) scale(2,1.5) translate(-3px,-1.0625px); } 75% { transform: translate(16px,9.1975px) scale(2,1.5) translate(-3px,-1.0625px); } 100% { transform: translate(16px,9.1975px) scale(1,1) translate(-3px,-1.0625px); } }
+@keyframes group_2_t { 0% { transform: translate(12.976px,15.34px); } 25% { transform: translate(12.976px,15.34px); } 50% { transform: translate(1.976px,15.34px); } 75% { transform: translate(1.976px,15.34px); } 100% { transform: translate(12.976px,15.34px); } }
+@keyframes group_2_o { 0% { opacity: 0; } 25% { opacity: 0; } 50% { opacity: 1; } 75% { opacity: 1; } 100% { opacity: 0; } }
+@keyframes group_3_t { 0% { transform: translate(12.976px,15.34px); } 25% { transform: translate(12.976px,15.34px); } 50% { transform: translate(23.976px,15.34px); } 75% { transform: translate(23.976px,15.34px); } 100% { transform: translate(12.976px,15.34px); } }
+@keyframes group_3_o { 0% { opacity: 0; } 25% { opacity: 0; } 50% { opacity: 1; } 75% { opacity: 1; } 100% { opacity: 0; } }
+</style>
+<g id="webpage" transform="translate(16,16) translate(-4.84,-9.74)" style="animation: webpage_t 4s linear infinite both;">
+<rect id="top_half_website" width="9.68" height="8" fill="#eeeeee" stroke="#eeeeee" stroke-width="0.5" transform="translate(4.86,9.64) translate(-4.86,-9.64)"/>
+<rect id="bottom_half_website" width="9.68" height="11.24" fill="#d3d1d1" stroke="#d3d1d1" stroke-width="0.5" transform="translate(4.86,17.88) translate(-4.86,-9.64)"/>
+</g>
+<g id="heading" transform="translate(16,9.1975) translate(-3,-1.0625)" style="animation: heading_t 4s linear infinite both;">
+<rect id="type_1" width="6" height="1" fill="#000000" stroke="none" transform="translate(3,0.5) translate(-3,-0.5)"/>
+<rect id="type_2" width="6" height="0.525" fill="#000000" stroke="none" transform="translate(3,2.1) translate(-3,-0.5)"/>
+</g>
+<g id="group_1" transform="translate(15.976,20.2275) translate(-3,-4.8875)">
+<rect id="group_1_image" width="6" height="6" fill="#000000" stroke="none" opacity="1" transform="translate(3,3.5) translate(-3,-3.5)"/>
+<rect id="group_1_line_1" width="6" height="0.525" fill="#000000" stroke="none" opacity="1" transform="translate(3,7.5) translate(-3,-0.5)"/>
+<rect id="group_1_line_2" width="6" height="0.525" fill="#000000" stroke="none" transform="translate(3,8.275) translate(-3,-0.5)"/>
+<rect id="group_1_line_3" width="6" height="0.525" fill="#000000" stroke="none" transform="translate(3,9) translate(-3,-0.5)"/>
+<rect id="group_1_line_4" width="6" height="0.525" fill="#000000" stroke="none" transform="translate(3,9.75) translate(-3,-0.5)"/>
+</g>
+<g id="group_2" opacity="0" transform="translate(15.976,20.2275) translate(-3,-4.8875)" style="animation: group_2_t 4s linear infinite both, group_2_o 4s linear infinite both;">
+<rect id="group_2_image" width="6" height="6" fill="#000000" stroke="none" opacity="1" transform="translate(3,3.5) translate(-3,-3.5)"/>
+<rect id="group_2_line_1" width="6" height="0.525" fill="#000000" stroke="none" opacity="1" transform="translate(3,7.5) translate(-3,-0.5)"/>
+<rect id="group_2_line_2" width="6" height="0.525" fill="#000000" stroke="none" transform="translate(3,8.275) translate(-3,-0.5)"/>
+<rect id="group_2_line_3" width="6" height="0.525" fill="#000000" stroke="none" transform="translate(3,9) translate(-3,-0.5)"/>
+<rect id="group_2_line_4" width="6" height="0.525" fill="#000000" stroke="none" transform="translate(3,9.75) translate(-3,-0.5)"/>
+</g>
+<g id="group_3" opacity="0" transform="translate(15.976,20.2275) translate(-3,-4.8875)" style="animation: group_3_t 4s linear infinite both, group_3_o 4s linear infinite both;">
+<rect id="group_3_image" width="6" height="6" fill="#000000" stroke="none" opacity="1" transform="translate(3,3.5) translate(-3,-3.5)"/>
+<rect id="group_3_line_1" width="6" height="0.525" fill="#000000" stroke="none" opacity="1" transform="translate(3,7.5) translate(-3,-0.5)"/>
+<rect id="group_3_line_2" width="6" height="0.525" fill="#000000" stroke="none" transform="translate(3,8.275) translate(-3,-0.5)"/>
+<rect id="group_3_line_3" width="6" height="0.525" fill="#000000" stroke="none" transform="translate(3,9) translate(-3,-0.5)"/>
+<rect id="group_3_line_4" width="6" height="0.525" fill="#000000" stroke="none" transform="translate(3,9.75) translate(-3,-0.5)"/>
+</g>
+</svg>
